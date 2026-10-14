@@ -1,0 +1,25 @@
+{
+  "_notice": "SYNTHETIC DEMO DATA ONLY. Every entry below is invented for testing this prototype. None of these UPI IDs, names or flags refer to real people, merchants, banks or fraud reports. The '@demobank' handle is fictional.",
+  "flagged_vpas": [
+    {
+      "vpa": "prize.claim.demo@demobank",
+      "reason": "Synthetic test indicator: listed as a demo 'lottery prize claim' scam account."
+    },
+    {
+      "vpa": "kyc.update.demo@demobank",
+      "reason": "Synthetic test indicator: listed as a demo 'KYC update' impersonation account."
+    }
+  ],
+  "trusted_payees": [
+    {
+      "vpa": "freshmart.demo@demobank",
+      "registered_name": "FreshMart Demo Store",
+      "category": "Grocery (demo)"
+    },
+    {
+      "vpa": "citycafe.demo@demobank",
+      "registered_name": "City Cafe Demo",
+      "category": "Restaurant (demo)"
+    }
+  ]
+}
